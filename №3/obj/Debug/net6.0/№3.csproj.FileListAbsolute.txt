@@ -1,0 +1,15 @@
+C:\GeekBrains\MassStringHmWrk\№3\bin\Debug\net6.0\№3.exe
+C:\GeekBrains\MassStringHmWrk\№3\bin\Debug\net6.0\№3.deps.json
+C:\GeekBrains\MassStringHmWrk\№3\bin\Debug\net6.0\№3.runtimeconfig.json
+C:\GeekBrains\MassStringHmWrk\№3\bin\Debug\net6.0\№3.dll
+C:\GeekBrains\MassStringHmWrk\№3\bin\Debug\net6.0\№3.pdb
+C:\GeekBrains\MassStringHmWrk\№3\obj\Debug\net6.0\№3.csproj.AssemblyReference.cache
+C:\GeekBrains\MassStringHmWrk\№3\obj\Debug\net6.0\№3.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\MassStringHmWrk\№3\obj\Debug\net6.0\№3.AssemblyInfoInputs.cache
+C:\GeekBrains\MassStringHmWrk\№3\obj\Debug\net6.0\№3.AssemblyInfo.cs
+C:\GeekBrains\MassStringHmWrk\№3\obj\Debug\net6.0\№3.csproj.CoreCompileInputs.cache
+C:\GeekBrains\MassStringHmWrk\№3\obj\Debug\net6.0\№3.dll
+C:\GeekBrains\MassStringHmWrk\№3\obj\Debug\net6.0\refint\№3.dll
+C:\GeekBrains\MassStringHmWrk\№3\obj\Debug\net6.0\№3.pdb
+C:\GeekBrains\MassStringHmWrk\№3\obj\Debug\net6.0\№3.genruntimeconfig.cache
+C:\GeekBrains\MassStringHmWrk\№3\obj\Debug\net6.0\ref\№3.dll
